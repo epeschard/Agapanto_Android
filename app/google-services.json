@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "127534089897",
+    "firebase_url": "https://agapanto-c5ac1.firebaseio.com",
+    "project_id": "agapanto-c5ac1",
+    "storage_bucket": "agapanto-c5ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127534089897:android:c37f483796a4315e",
+        "android_client_info": {
+          "package_name": "me.peschard.agapanto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127534089897-uf0urksd7ojlnaf371rcd9n8av8jpodu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.peschard.agapanto",
+            "certificate_hash": "473dfdef59018ab8f05c2743120f6c1b8042c945"
+          }
+        },
+        {
+          "client_id": "127534089897-n0catlbh29ma4dbiquhnvs809jhke2eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDma8Yy9v5TCAUqvXDP1dOKoIyQS0lg1-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127534089897-b40u0h74bge5hu4rggticq8tptddr6q5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.peschard.eugene.Agapanto"
+              }
+            },
+            {
+              "client_id": "127534089897-n0catlbh29ma4dbiquhnvs809jhke2eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
