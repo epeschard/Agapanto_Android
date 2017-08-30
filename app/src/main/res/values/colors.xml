@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- https://material.io/color/#!/?view.left=1&view.right=1&primary.color=889fe6 -->
+    <color name="colorPrimary">#889fe6</color>
+    <color name="colorPrimaryDark">#5771b4</color>
+    <color name="colorPrimaryLight">#bbd0ff</color>
+    <color name="colorAccent">#ADC54D</color>
+
+    <color name="color_home">#F9F9F9</color>
+    <color name="color_search">#F9F9F9</color>
+    <color name="color_notifications">#F9F9F9</color>
+</resources>
